@@ -1,6 +1,9 @@
 # Layer-builder-a-tool-for-image-layer-decomposition
 Reproduce LayerBuilder: Layer Decomposition for Interactive Image and Video Color Editing (https://arxiv.org/abs/1701.03754)
 
+Note that color extraction block is not identical to that within Layerbuilder paper.
+I use a revised version of K-means to extract the color palette, presented in Palette-based Photo Recoloring (http://www.cs.princeton.edu/~huiwenc/pub/sig2015-palette.pdf)
+
 ## Compile
 
 This program depends on opencv 3.0 and Eigen 3.3.4.
