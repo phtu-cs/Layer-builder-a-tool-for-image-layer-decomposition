@@ -1,11 +1,11 @@
 # Layer-builder-a-tool-for-image-layer-decomposition
 Reproduce LayerBuilder: Layer Decomposition for Interactive Image and Video Color Editing (https://arxiv.org/abs/1701.03754)
 
-# Compile
+## Compile
 
 This program depends on opencv 3.0 and Eigen 3.3.4.
 
-# Usage
+## Usage
 
 Please use command line to run this program.
 
