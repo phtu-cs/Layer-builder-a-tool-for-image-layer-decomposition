@@ -53,3 +53,5 @@ which is used to see the effectiveness of image decomposition.
 I have not considered the robustness of the primitive interaction program. Please don't input random numbers or 
 characters which could make the program crash.
 
+## Result
+Please see ![here] (https://github.com/tph9608/Layer-builder-a-tool-for-image-layer-decomposition/raw/results/my_results.pdf)  
