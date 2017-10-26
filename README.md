@@ -54,4 +54,4 @@ I have not considered the robustness of the primitive interaction program. Pleas
 characters which could make the program crash.
 
 ## Result
-Please see ![here] (https://github.com/tph9608/Layer-builder-a-tool-for-image-layer-decomposition/raw/results/my_results.pdf)  
+Please see ![here] (https://github.com/tph9608/Layer-builder-a-tool-for-image-layer-decomposition/results/my_results.pdf)  
